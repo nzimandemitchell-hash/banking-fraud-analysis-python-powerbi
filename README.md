@@ -2,7 +2,7 @@
 An end-to-end data analytics project using Python and Power BI to analyze banking fraud transactions and deliver actionable business insights.
 
 
-# 🏦 Banking Fraud Detection Analysis
+# Banking Fraud Detection Analysis
 
  Project Objectives
 
